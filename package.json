@@ -1,0 +1,26 @@
+{
+  "name": "hackathon-cafeina-adm",
+  "version": "1.0.0",
+  "description": "Dashboard administrativo da plataforma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennissiq/hackathon-cafeina-adm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennissiq/hackathon-cafeina-adm/issues"
+  },
+  "homepage": "https://github.com/Dennissiq/hackathon-cafeina-adm#readme",
+  "dependencies": {
+    "angular": "^1.6.7",
+    "angular-animate": "^1.6.7",
+    "angular-aria": "^1.6.7",
+    "angular-material": "^1.1.5",
+    "angular-messages": "^1.6.7"
+  }
+}
