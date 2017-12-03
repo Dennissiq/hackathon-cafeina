@@ -16,8 +16,16 @@
     <script src="../app/app.js"></script>
 </head>
 <body ng-app="MainApp" ng-controller="MainCtrl">
-        <div>
-          {{hello}}
+        <div ng-repeat="tag in Tags">
+          <span>{{tag.idTagPost}}</span>
+          <h3>{{tag.nomeTag}}</h3>
         </div>
-      </body>
+        <md-list-item class="md-2-line">
+                <div class="md-list-item-text" layout="column">
+                  <p>First Line</p>
+                  <p>Second Line</p>
+                </div>
+              </md-list-item>
+
+</body>
 </html>
