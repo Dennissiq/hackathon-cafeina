@@ -1,0 +1,100 @@
+/* Sections */
+.section-primary{
+  background-color: $brand-primary;
+}
+.section-success{
+  background-color: $brand-success;
+}
+.section-info{
+  background-color: $brand-info;
+}
+.section-warning{
+  background-color: $brand-warning;
+}
+.section-danger{
+  background-color: $brand-danger;
+}
+.section-red{
+  background-color: $brand-red;
+}
+.section-lightgray{
+  background-color: $gray-lighter;
+}
+.section-gray{
+  background-color: $gray ;
+}
+//Fonts
+.font-normal{
+  font-family: 'Lato';
+}
+.font-bold{
+  font-weight:700;
+  font-family: 'Lato';
+}
+.font-bold{
+  font-weight:700;
+  font-family: 'Lato';
+}
+//Color
+.text-white{
+  color:white;
+}
+.text-black{
+  color:Black;
+}
+.text-gray{
+  color: $gray-light ;
+}
+.mat-card {
+    background: white;
+    color: rgba(0, 0, 0, 0.87);
+    transition: box-shadow 280ms cubic-bezier(.4,0,.2,1);
+    display: block;
+    position: relative;
+    padding:5px 0px 3px 0px;
+    border-radius: 5px;
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+    transition: transform .5s;
+    .line-gray{
+      border-bottom: 1px solid lightgray;
+    }
+    .text-micro{
+      font-size: 10px;
+    }
+    .nomargin{
+      margin-top: 0px;
+    }
+    .titulo-card{
+      padding:3px;
+      color: lighten($gray-darker, 40%);
+      font-weight: 700;
+      letter-spacing: 2px;
+      font-size: ($font-size-base * 0.75);
+      text-transform: uppercase;
+    }
+    .row-card{
+      margin:10px;
+    }
+    .progress{
+      padding: 0px !important;
+    }
+}
+
+.text-card{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.mat-card-parceiro{
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.mat-card-preco{
+  padding-bottom: 8px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.img-card{
+  padding-left: 0px;
+  padding-right: 0px;
+ clip: rect(0px,60px,20px,0px);
+}
