@@ -1,21 +1,20 @@
-# hackathon-cafeina-adm
+# hackathon-cafeína
 
-Projeto da Equipe DevLovers no Hackathton Cafeína da USJT.
+##Projeto da Equipe *DevLovers* no Hackathon [**Cafeína**](https://www.workstationusjt.com/cafeina) da USJT.
 
 Integração de diversas plataformas de conteúdo num único portal.
 
 Agradecimentos ao membros do time:
 
-Dennis - Dev
+*[Dev]:*
+  - Dennis
+  - Fernanda
+  - Janaina
+  - Yago
 
-Fernanda - Dev
+*[DBA]:*
+  - Igor
 
-Igor - DBA
-
-Janaína - Dev
-
-Raul - Design
-
-Wendel - Design
-
-Yago - Dev
+*[Design]:*
+  - Raul
+  - Wendel
