@@ -1,6 +1,6 @@
 # Hackathon Cafeína - Universidade São Judas Tadeu
 
-Projeto da Equipe *DevLovers* no [Hackathon **Cafeína**](https://www.workstationusjt.com/cafeina) da USJT.
+Projeto da Equipe *DevLovers* no [**Hackathon Cafeína**](https://www.workstationusjt.com/cafeina) da USJT.
 
 Integração de diversas plataformas de conteúdo num único portal.
 
@@ -18,5 +18,3 @@ Agradecimentos ao membros do time:
 ***[Design]:***
   - Raul
   - Wendel
-
-  
